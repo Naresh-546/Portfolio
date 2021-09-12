@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Raleway:wght@300&display=swap");
+
+/* Fonts 
+font-family: 'Montserrat', sans-serif; 
+font-family: 'Raleway', sans-serif;
+*/
+
+/* Colors
+ #BFA2DB 
+ #610094
+ #3F0071
+ #150050
+*/
+
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  font-family: "Raleway", sans-serif;
+}
+
+.brand_name {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #610094;
+}
+
+.navbar .ml-auto {
+  margin-left: auto;
+}
+/* 
+#dropdownMenuButton1 {
+  background-color: #610094;
+  border-color: #610094;
+  color: #fff;
+}
+
+#dropdownMenuButton1:hover {
+  background-color: #a239ea;
+} */
