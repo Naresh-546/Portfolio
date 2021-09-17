@@ -30,7 +30,7 @@ font-family: 'Raleway', sans-serif;
 .navbar .ml-auto {
   margin-left: auto;
 }
-/* 
+
 #dropdownMenuButton1 {
   background-color: #610094;
   border-color: #610094;
@@ -39,4 +39,39 @@ font-family: 'Raleway', sans-serif;
 
 #dropdownMenuButton1:hover {
   background-color: #a239ea;
+}
+
+.row.meri-height {
+  min-height: 82vh;
+}
+
+.progress .progress-bar {
+  background-color: #6610f2;
+}
+
+.my_color {
+  color: #610094;
+}
+
+/* .my_btn_color {
+  background-color: #610094;
+  color: #fff;
+}
+
+.my_btn_color:hover {
+  background-color: #bfa2db;
+  color: #fff;
 } */
+
+.my_link {
+  color: #6610f2;
+}
+
+.my_link:hover {
+  color: #6610f2;
+}
+
+.hire {
+  background-color: #6610f2;
+  color: #fff;
+}
